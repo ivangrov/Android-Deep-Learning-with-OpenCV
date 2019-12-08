@@ -19,3 +19,6 @@ https://youtu.be/-e76BQfUNFc
 
 #Part 6 - Run YOLOv3 on Android with OpenCV (Custom Trained YOLO too)
 https://youtu.be/JasVghcUeyg
+
+#Part 7 - Deep Learning Face Detection on Android with OpenCV || Android Deep Learning with OpenCV
+https://youtu.be/pMZsttT57Zo
