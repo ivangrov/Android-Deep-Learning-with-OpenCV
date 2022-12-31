@@ -19,3 +19,6 @@ https://youtu.be/-e76BQfUNFc
 
 # Part 6 - Run YOLOv3 on Android with OpenCV (Custom Trained YOLO too)
 https://youtu.be/JasVghcUeyg
+
+# BusNumberApp: AI App that Reads Bus Numbers Explained (And Open-Sourced!)
+https://youtu.be/ohsCVVF1dC0
