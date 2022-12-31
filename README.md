@@ -21,4 +21,5 @@ https://youtu.be/-e76BQfUNFc
 https://youtu.be/JasVghcUeyg
 
 ## BusNumberApp: AI App that Reads Bus Numbers Explained (And Open-Sourced!)
+In this video I explain the project which inspired this series of videos about deep learning development on Android. 
 https://youtu.be/ohsCVVF1dC0
