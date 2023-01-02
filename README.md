@@ -4,18 +4,27 @@ Hey what is up, everybody! Here I'll be posting all the code from my new Android
 
 ## Part 1 - Let's build an Android AI App with OpenCV
 https://youtu.be/lGtUA5wz0tk
+![image](https://user-images.githubusercontent.com/41416855/210200587-10832d9c-ac26-4236-a6b0-730c58fba571.png)
+
 
 ## Part 2 - Compile Android Studio with OpenCV
 https://youtu.be/7J4b0Djcips
+![image](https://user-images.githubusercontent.com/41416855/210200625-fc3367d1-4909-4a1e-a3fd-2a2ff460a335.png)
+
 
 ## Part 3 - Launch OpenCV camera view and actually build our first app that processes frames! 
 https://youtu.be/20q-rZzNROY
+![image](https://user-images.githubusercontent.com/41416855/210200687-45332375-c17a-4ef6-b6f8-40d37c09a5bd.png)
+
 
 ## Part 4 - OpenCV Edge Detection in Android Studio & Creating Buttons
 https://youtu.be/5nQCyacyM4w
+![image](https://user-images.githubusercontent.com/41416855/210200731-e125b6a4-1205-4822-b394-c4329087fd5d.png)
+
 
 ## Part 5 - Run TensorFlow, PyTorch, Darknet, Caffe Neural Nets on Android With OpenCV
 https://youtu.be/-e76BQfUNFc
+![thumb1](https://user-images.githubusercontent.com/41416855/210200513-866fdbf1-da3a-409d-beae-bfe060304870.png)
 
 ## Part 6 - Run YOLOv3 on Android with OpenCV (Custom Trained YOLO too)
 https://youtu.be/JasVghcUeyg
